@@ -1,2 +1,12 @@
-一个给予jQuery的JavaScript框架
-本框架的目的是希望利用此框架，在前段使用MVC的思想进行编程。
+/**
+ * @author Neekey <ni184775761@gmail.com>
+ * @version 0.0.1
+ * 
+ * 要求：jQuery 1.5 <http://jquery.com/>
+
+ * 框架名称：nyJS
+ * 简介：
+ *    本框架旨在让前段的JavaScript开发中使用MVC的设计模式
+ * 另外本框架也提供一些简单的UI组建，以及响应的工具包（如JavaScript文件的导入）等
+ *    框架还在开发中，欢迎下载测试。帮助文档以及相关说明将在后续放出。
+ */
